@@ -1,2 +1,5 @@
-# github_coins_counter
+# coins_counter
 ## กระปุก ออมสิน โดยใช้ Speed sensor
+-เหรียญ 1 บาท
+-เหรียญ 5 บาท
+-เหรียญ 10 บาท
